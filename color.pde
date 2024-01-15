@@ -1,0 +1,12 @@
+int midred=0xffBE030A, redd=0xffFE040E, darkred=0xff931111;
+color blueBlack = #020F1D, blueLight = #0A223E, blueMid = #010E51, grayishBlue = #091B30;
+color white = #FFFFFF;
+color barelyGray = #F5F5F5, lightGray = #DCDCDC, almostGray = #ECECEC;
+color gray = #A0A0A0, darkGray = #707070, superGray = #1F1F1F;
+color gree = #1D9321, midGreen= #167819, darkGreen = #116314;
+color purple = #6200EE;
+color reddishBrown = #D50202;
+color bgColor = #020F1D, skyBlue =#07FFEC, midSkyBlue = #DCFAF8, lowDarkBlue = #012348, dark = #000000, lowBlue = #0D3562, blueBright = #4262FE;
+color purples = #CE9FFC, red = #F6416C, Orange =#DF9947 , blue = #0024FF, green = #00FF0E;
+color grayLight = #BACCFD;
+color pink = #F44771;
